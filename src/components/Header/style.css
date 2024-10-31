@@ -1,0 +1,15 @@
+.header-home {
+    background-color: var(--color-bg-secondary);
+    height: 70px;
+    display: flex;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.link-nav{
+    color: var(--color-font-primary);
+}
